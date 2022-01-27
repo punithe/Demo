@@ -8,6 +8,7 @@ namespace ConsoleA
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Sample line adding");
+            Console.WriteLine("Editing in Git");
         }
     }
 }
